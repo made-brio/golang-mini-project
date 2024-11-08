@@ -1,0 +1,6 @@
+2024/11/08 15:02:38 Transferred: 100.00
+2024/11/08 15:02:38 Transaction processed
+2024/11/08 15:02:38 Transaction processed
+2024/11/08 15:02:38 Error: insufficient balance
+2024/11/08 15:02:38 Transaction processed
+2024/11/08 15:02:38 Recovered from panic: Transfer amount cannot be negative
